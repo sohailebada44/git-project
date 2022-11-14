@@ -1,2 +1,2 @@
 # git-project
-for committing the projects
+## for committing the projects
